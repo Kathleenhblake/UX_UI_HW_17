@@ -30,7 +30,7 @@ li {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 33%;
 
 }
 
@@ -108,7 +108,7 @@ li {
     flex-direction: row;
 }
 
-#projectImage {
+.projectImage {
     width: 600px;
 }
 
